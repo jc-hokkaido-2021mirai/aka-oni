@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">隠れ鬼</string>
+    <string name="image_view">Image View</string>
+    <string name="detect">探す</string>
+    <string name="run_model">Running the model...</string>
+    <string name="restart">Restart</string>
+    <string name="select">写真</string>
+    <string name="live">りある</string>
+</resources>
